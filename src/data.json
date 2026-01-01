@@ -1,0 +1,201 @@
+[
+    {
+      "id": 1,
+      "title": " Nike Air Shoes",
+      "price": 499.55,
+      "description": "Air Max Alpha Trainer 5 Training & Gym Shoes For Men With the multi colours",
+      "category": "men's shoes",
+      "image": "https://images.pexels.com/photos/2404959/pexels-photo-2404959.png"
+      
+
+    },
+    {
+      "id": 2,
+      "title": " New Balance",
+      "price": 299.00,
+      "description": "New Balance Womens 500 Casual Shoes Sneakers For Women  (White , 6)",
+      "category": "women's shoes",
+      "image": "https://images.unsplash.com/photo-1662569147974-e1d38128cc02?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmV3JTIwYmFsYW5jZSUyMHNob2VzfGVufDB8MnwwfHx8MA%3D%3D"
+      
+
+    },
+    {
+      "id": 3,
+      "title": " Crocs",
+      "price": 95.85,
+      "description": "Sling Back Clogs For Boys & Girls  (Green , 6-9 months)",
+      "category": "kid's shoes",
+      "image": "https://images.unsplash.com/photo-1724092130936-fb1b5f9921ad?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Y3JvY3N8ZW58MHx8MHx8fDI%3D"
+      
+
+    },
+    {
+      "id": 4,
+      "title": " New Balance Men",
+      "price": 289.95,
+      "description": "New Balance Mens NITREL sports Shoes Sneakers For Men  (Red , 8.5)",
+      "category": "men's shoes",
+      "image": "https://images.unsplash.com/photo-1610630879511-3f6a23c19a02?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmV3JTIwYmFsYW5jZXxlbnwwfHwwfHx8Mg%3D%3D"
+      
+
+    },
+    {
+      "id": 5,
+      "title": " Canvas Shoe",
+      "price": 109.95,
+      "description": "Converse Chuck Taylor All Star Hi Black with white canvas",
+      "category": "men's shoes",
+      "image": "https://images.unsplash.com/photo-1463100099107-aa0980c362e6?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fHNob2VzfGVufDB8fDB8fHwy"
+      
+
+    },
+    {
+      "id": 6,
+      "title": " Puma Shoe",
+      "price": 210.9,
+      "description": "Puma Sneaker for Boys and Girls - Palermo Bowtique for kids (1-7)",
+      "category": "kid's shoes",
+      "image": "https://images.unsplash.com/photo-1661152655333-7b5275ad6baa?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHB1bWElMjBzaG9lc3xlbnwwfHwwfHx8Mg%3D%3D"
+      
+
+    },
+    {
+      "id": 7,
+      "title": " Puma Shoe",
+      "price": 280.95,
+      "description": "PUMA casusal wear for men grey and white sole (8-11) ",
+      "category": "men's shoes",
+      "image": "https://images.unsplash.com/photo-1680254418548-02c8ac7ffb6c?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjB8fHB1bWElMjBzaG9lc3xlbnwwfHwwfHx8Mg%3D%3D"
+      
+
+    },
+    {
+      "id": 8,
+      "title": " Kids shoes",
+      "price": 80.85,
+      "description": "Pure white sneakers for kids unisex with double sole ,size-(5-7)",
+      "category": "kid's shoes",
+      "image": "https://images.unsplash.com/photo-1626379616459-b2ce1d9decbc?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTV8fHNob2VzfGVufDB8fDB8fHwy"
+
+    },
+    {
+      "id": 9,
+      "title": " Chelsea Boots",
+      "price": 499.95,
+      "description": "Men chelsea boots with tan leather fineshed material",
+      "category": "men's shoes",
+      "image": "https://images.unsplash.com/photo-1608629601270-a0007becead3?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hlbHNlYSUyMGJvb3RzfGVufDB8fDB8fHwy"
+      
+
+    },
+    {
+      "id": 10,
+      "title": " New Balance shoes",
+      "price": 100.95,
+      "description": "New balance shoes for kid both boys & girls sizes-(4-8)",
+      "category": "kid's shoes",
+      "image": "https://images.unsplash.com/photo-1646075900858-6e813f664593?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fGtpZCUyMHNob2VzfGVufDB8fDB8fHwy"
+      
+
+    },
+    {
+      "id": 11,
+      "title": " Girl shoes",
+      "price": 120.85,
+      "description": "White shoes for girls with white strips and tiny flower",
+      "category": "kid's shoes",
+      "image": "https://images.unsplash.com/photo-1559500998-1b8c54a9433f?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDN8fGtpZCUyMHNob2VzfGVufDB8fDB8fHwy"
+      
+
+    },
+    {
+      "id": 12,
+      "title": " Birkenstock",
+      "price": 160.99,
+      "description": "Men birknstock with double strips with soft material soal",
+      "category": "slides",
+      "image": "https://images.unsplash.com/photo-1643068471105-570be3332ec0?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Ymlya2Vuc3RvY2t8ZW58MHx8MHx8fDI%3D"
+      
+
+    },
+    {
+      "id": 13,
+      "title": " Nike shoes",
+      "price": 105.65,
+      "description": "Classic Ultra Soft, Waterproof Flip Flops Women Slides  (Brown , 8)",
+      "category": "slides",
+      "image": "https://plus.unsplash.com/premium_photo-1703622791378-0b6c8c3526f9?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8c2xpcHBlcnxlbnwwfHwwfHx8MA%3D%3D"
+      
+
+    },
+    {
+      "id": 14,
+      "title": "Birkenstock ",
+      "price": 98.99,
+      "description": "Women birkenstock tan soft sole with elastic band strips for women",
+      "category": "slides",
+      "image": "https://plus.unsplash.com/premium_photo-1724763204533-f865aa38d396?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTd8fGJpcmtlbnN0b2NrfGVufDB8fDB8fHww"
+      
+
+    },
+    {
+      "id": 15,
+      "title": " Women Slides",
+      "price": 20.95,
+      "description": "Women slides Comfort with Adjustable Straps, Cushioned Sole Slipper,   (Beige , 6)",
+      "category": "slides",
+      "image": "https://images.unsplash.com/photo-1663693586817-f7e0ceb27bd7?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Njd8fHdvbWVuJTIwZm9vdHdlYXJ8ZW58MHx8MHx8fDI%3D"
+      
+
+    },
+    {
+      "id": 16,
+      "title": " Loafer",
+      "price": 80.50,
+      "description": "Women casual loafer with softed sole size-(8-11) with trickes",
+      "category": "women's shoes",
+      "image": "https://images.unsplash.com/photo-1732708874631-d14fbbe406c6?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8d29tZW4lMjBmb290d2VhcnxlbnwwfHwwfHx8Mg%3D%3D"
+      
+
+    },
+    {
+      "id": 17,
+      "title": " fancy Shoes",
+      "price": 95.99,
+      "description": "Women party wear shoes with multi stones size-(8-11)",
+      "category": "women's shoes",
+      "image": "https://images.unsplash.com/photo-1534653299134-96a171b61581?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8d29tZW4lMjBmb290d2VhcnxlbnwwfHwwfHx8Mg%3D%3D"
+      
+
+    },
+    {
+      "id": 18,
+      "title": " Adidas Slides",
+      "price": 50.99,
+      "description": "Men adidas black off white printed slides with off-white tags",
+      "category": "slides",
+      "image": "https://images.unsplash.com/photo-1568901578471-a1d5af772617?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8ZmxpcCUyMGZsb3B8ZW58MHx8MHx8fDI%3D"
+      
+
+    },
+    {
+      "id": 19,
+      "title": " Nike shoes",
+      "price": 599.99,
+      "description": " Nike women structure 26 Running Shoes (white & pink 9)",
+      "category": "women's shoes",
+      "image": "https://images.unsplash.com/photo-1739138053555-13321c306033?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDJ8fHdvbWVuJTIwZm9vdHdlYXJ8ZW58MHx8MHx8fDI%3D"
+      
+
+    } ,
+      {
+      "id": 20,
+      "title": " Woodland",
+      "price": 399,
+      "description": "WOODLAND Boots trucking and riding For Women  (Camel , 6)",
+      "category": "women's shoes",
+      "image": "https://images.unsplash.com/photo-1761052720710-32349209f6b4?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTZ8fHdvbWVuJTIwZm9vdHdlYXJ8ZW58MHx8MHx8fDI%3D"
+      
+
+    }
+]
